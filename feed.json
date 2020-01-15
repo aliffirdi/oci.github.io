@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Open Comic Indonesia",
     "description": "",
-    "home_page_url": "https://github.com/aliffirdi/oci.github.io.git",
-    "feed_url": "https://github.com/aliffirdi/oci.github.io.git/feed.json",
+    "home_page_url": "https://aliffirdi.github.io/oci.github.io",
+    "feed_url": "https://aliffirdi.github.io/oci.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Alif Firdi"
     },
     "items": [
         {
-            "id": "https://github.com/aliffirdi/oci.github.io.git/selamat-datang-di-halaman-awal-kami.html",
-            "url": "https://github.com/aliffirdi/oci.github.io.git/selamat-datang-di-halaman-awal-kami.html",
+            "id": "https://aliffirdi.github.io/oci.github.io/selamat-datang-di-halaman-awal-kami.html",
+            "url": "https://aliffirdi.github.io/oci.github.io/selamat-datang-di-halaman-awal-kami.html",
             "title": "Selamat datang di halaman awal kami",
             "summary": "Hallo semua, disini kami selaku creator oci ingin memperkenalkan beberapa komik karya pribadi kami.",
             "content_html": "Hallo semua, disini kami selaku creator oci ingin memperkenalkan beberapa komik karya pribadi kami.",

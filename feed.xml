@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Open Comic Indonesia</title>
-    <link href="https://github.com/aliffirdi/oci.github.io.git/feed.xml" rel="self" />
-    <link href="https://github.com/aliffirdi/oci.github.io.git" />
-    <updated>2020-01-15T18:16:49+07:00</updated>
+    <link href="https://aliffirdi.github.io/oci.github.io/feed.xml" rel="self" />
+    <link href="https://aliffirdi.github.io/oci.github.io" />
+    <updated>2020-01-15T18:20:32+07:00</updated>
     <author>
         <name>Alif Firdi</name>
     </author>
-    <id>https://github.com/aliffirdi/oci.github.io.git</id>
+    <id>https://aliffirdi.github.io/oci.github.io</id>
 
     <entry>
         <title>Selamat datang di halaman awal kami</title>
         <author>
             <name>Alif Firdi</name>
         </author>
-        <link href="https://github.com/aliffirdi/oci.github.io.git/selamat-datang-di-halaman-awal-kami.html"/>
-        <id>https://github.com/aliffirdi/oci.github.io.git/selamat-datang-di-halaman-awal-kami.html</id>
+        <link href="https://aliffirdi.github.io/oci.github.io/selamat-datang-di-halaman-awal-kami.html"/>
+        <id>https://aliffirdi.github.io/oci.github.io/selamat-datang-di-halaman-awal-kami.html</id>
             <category term="komik indonesia"/>
             <category term="Open comic indonesia"/>
 
